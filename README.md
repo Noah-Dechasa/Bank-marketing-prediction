@@ -66,8 +66,3 @@ I visualized the **confusion matrix** and **ROC curve** to better understand the
 - **Matplotlib**: For visualizing results such as the ROC curve and confusion matrix.
 - **Jupyter Notebook**: My development environment for experimenting and building the model.
 
-### 🛠️ **Installation**
-To install the required libraries, run the following:
-```bash
-# To install required libraries
-pip install xgboost smote pandas scikit-learn matplotlib
